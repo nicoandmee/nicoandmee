@@ -9,9 +9,7 @@
 
 - 👨‍💻 Some PII here [https://www.nicomee.com/](https://www.nicomee.com/)
 
-- 📝 I sometimes write things here about infosec [https://www.mindwise.io/](https://www.mindwise.io/)
-
-- 💬 Ask me about **Scraping, Automation, Browser Fingerprinting, Security**
+- 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/)
 
 - 📫 How to reach me **nico@omg.lol** (no social media)
 
