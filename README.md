@@ -4,15 +4,17 @@
 
 - 🔭 I’ve worked at [Automatiq](https://automatiq.com/), building/maintaining robust scraping & automation solutions at enormous scale for thousands of clients across millions of accounts. My duties consisted of maintaining and reguarly hotfixing scraping issues we would run into as the company grew. I worked primarily in JS/TS/Shell but learned to read Elixir and am now very fond of functional programming.
 
-- 🌱 I’m currently diving deeper into the internals of **ECMAScript**, learning about malware techniques for evasion and data exfilitration in the process of reverse-engineering antibot scripts. I'm also dipping my toes into zig, and I work with embedded devices (C++) - primarily focused on RTL-SDR platforms and applications thereof. My callsign is [KK6GDI](https://hamcall.net/reports/fccdaily/20130814.htm).
+- 🌱 I'm currently diving deeper into the internals of **ECMAScript**, learning about malware techniques for evasion and data exfilitration in the process of reverse-engineering antibot scripts.
+
+- 💼 **I'm available for contract work!** With extensive experience in building high-scale, resilient scraping solutions that can bypass sophisticated detection systems, I offer specialized services in web automation, data extraction, and anti-detection strategies. My background includes developing and maintaining scraping infrastructure across Google Cloud, AWS, Hetzner, DigitalOcean, Linode, numerous other cloud providers, and Bare Metal environments - handling millions of accounts and requests.
 
 - 👯 I love literature, history, and the liberal arts generally. A lack of education in these leads to a citizenry lacking virtue in the classic sense. We should **always remember** that no technology will ever truly address the Human Condition. 
 
 - 👨‍💻 Some PII here [https://www.nicomee.com/](https://www.nicomee.com/)
 
-- 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/). 
+- 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/) 
 
-- 📫 How to reach me **nicomee@riseup.net** - I do not use social media ever since it became a mimetic desire fueled hellscape. I prefer IRC, Discord (as a last resort), XMPP - the more free from corporate control the better.
+- 📫 How to reach me **nicomee@riseup.net** - I do not use social media ever since it became a mimetic desire fueled hellscape. I prefer IRC, Discord if it must be, but the more free from corporate control the better.
 
 - 📄 I hold a Bachelors Degree in Computer Science, and am aspirationally pursuing an additional bachelors degree in liberal arts at [UATX](https://www.uaustin.org/), a true disruptor in the edu space.
 
