@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm nico</h1>
 <h3 align="center">Backend SWE | Security Researcher | Hacker | Scraper | Tinkerer</h3>
 
-- 🔭 I’m currently working at [Automatiq](https://automatiq.com/), building/maintaining robust scraping & automation solutions at enormous scale.
 
-- 🌱 I’m currently learning **Go (distributed systems), Nim, WASM, C++, Internals of JS**
+- 🔭 I’ve worked at [Automatiq](https://automatiq.com/), building/maintaining robust scraping & automation solutions at enormous scale for thousands of clients across millions of accounts. My duties consisted of maintaining and reguarly hotfixing scraping issues we would run into as the company grew. I worked primarily in JS/TS/Shell but learned to read Elixir and am now very fond of functional programming.
 
-- 👯 Me gusta: **anything FOSS** 💙
+- 🌱 I’m currently diving deeper into the internals of **ECMAScript**, learning about malware techniques for evasion and data exfilitration in the process of reverse-engineering antibot scripts. I'm also dipping my toes into zig, and I work with embedded devices (C++) - primarily focused on RTL-SDR platforms and applications thereof. My callsign is [KK6GDI](https://hamcall.net/reports/fccdaily/20130814.htm).
+
+- 👯 I love literature, history, and the liberal arts generally. A lack of education in these leads to a citizenry lacking virtue in the classic sense. We should **always remember** that no technology will ever truly address the Human Condition. 
 
 - 👨‍💻 Some PII here [https://www.nicomee.com/](https://www.nicomee.com/)
 
-- 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/)
+- 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/). 
 
-- 📫 How to reach me **nico@omg.lol** (no social media)
+- 📫 How to reach me **nicomee@riseup.net** - I do not use social media ever since it became a mimetic desire fueled hellscape. I prefer IRC, Discord (as a last resort), XMPP - the more free from corporate control the better.
 
-- 📄 I'm also an undergrad (CS), with an interest in higher education
+- 📄 I hold a Bachelors Degree in Computer Science, and am aspirationally pursuing an additional bachelors degree in liberal arts at [UATX](https://www.uaustin.org/), a true disruptor in the edu space.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
