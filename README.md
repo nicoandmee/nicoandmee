@@ -10,7 +10,7 @@
 
 - 👯 I love literature, history, and the liberal arts generally. A lack of education in these leads to a citizenry lacking virtue in the classic sense. We should **always remember** that no technology will ever truly address the Human Condition. 
 
-- 👨‍💻 Some PII here [https://www.nicomee.com/](https://www.nicomee.com/)
+- 👨‍💻 Some PII here [https://www.nicomee.com/](https://www.nicomee.com), including my ramblings on subjects in and outside of tech, along with my CV.
 
 - 📝 I sometimes write things about infosec [https://www.mindwise.io/](https://www.mindwise.io/) 
 
